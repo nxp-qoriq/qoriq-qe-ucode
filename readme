@@ -1,0 +1,7 @@
+These are the microcode binaries for the QUICC Engine hardware block in QorIQ
+products. Specific platforms require specific binaries.
+The table is given below:
+
+P1021/P1025: fsl_qe_ucode_1021_10_A.bin
+
+For specifics on how to use these binaries, please refer to the SDK user manual.
