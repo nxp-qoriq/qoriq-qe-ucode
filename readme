@@ -3,6 +3,8 @@ products. Specific platforms require specific binaries.
 The table is given below:
 
 P1021/P1025:  fsl_qe_ucode_1021_10_A.bin
-T10xx serial: iram_Type_A_T1040_r1.0.bin
+T104x serial: iram_Type_A_T1040_r1.0.bin
+T1024:        iram_Type_A_T1024_r1.0.bin
+LS1021a:      iram_Type_A_LS1021a_r1.0.bin
 
 For specifics on how to use these binaries, please refer to the SDK user manual.
