@@ -4,7 +4,7 @@ Release - QE microcode for Type C and D for BISYNC and PROFIBUS support 2023.09
 
 Package:                   qe-ucode
 Version:                   2023.09
-Outgoing License:          LA_OPT_NXP_Software_License, license in Section 2.2 applies.
+Outgoing License:          LA_OPT_NXP_Software_License, license in Section 2.3 applies.
 License File:              EULA.txt
 Type of content:           Binary
 Description and comments:  Type C and D for BISYNC and PROFIBUS support
